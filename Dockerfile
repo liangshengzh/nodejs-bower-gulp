@@ -1,4 +1,4 @@
-FROM node
+FROM node:5.11.1
 
 MAINTAINER Liangsheng Zhong <liangsheng.zhong@outlook.com>
 
